@@ -1,5 +1,1 @@
-# MERNTASKS-cliente
-# MERNTASKS-cliente
-# MERNTASKS-cliente
-# MERNTASKS-servidor
 # MERNTASK-SERVER
